@@ -14,5 +14,6 @@
 | Ubuntu 17.10   | 4.13.0-38-generic      | none         | none        | 2:1.0.21-2     | MSI GS63VR 7RF Stealth Pro|
 | eOS 0.4.1      | 4.13.0-38-generic      | none         | none        | 2:1.0.20-1     | MSI GE70 2PE Apache Pro   |
 | Ubuntu 18.04   | 4.15.0-20-generic      | none         | none        | 2:1.0.21-2     | MSI GS63VR 7RF Stealth Pro|
+| Suse Leap 42.3 | 4.15.11-1-generic      | 6.12.2       | 3.10.10     | 2:1.0.21-2     | MSI GT780DXR              |
 
 [1]: https://wiki.ubuntu.com/Kernel/LTSEnablementStack#Ubuntu_16.04_LTS_-_Xenial_Xerus
